@@ -1,3 +1,37 @@
 body{
   font-family: Helvetica;
+  line-height: 1.15;
+  font-size: 1em;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  height: 64px;
+}
+
+.navImg{
+height: 32px;
+}
+
+.headerNav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding-right: 24px;
+}
+
+#h-p1{
+  padding-right: 16px;
+}
+
+#h-p2{
+  padding-right: 16px;
+}
+
+#h-p3{
+  padding-right: 16px;
 }
