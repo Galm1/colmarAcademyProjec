@@ -20,6 +20,7 @@ header {
   height: 32px;
   width: 230px;
   background-color: black;
+  margin-left: 24px;
 }
 
 .headerNav {
