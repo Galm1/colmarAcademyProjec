@@ -39,3 +39,16 @@ header {
 #h-p3 {
   padding-right: 16px;
 }
+
+.section1 {
+  height: 545px;
+  display: flex;
+  align-items: center;
+}
+
+.sec1Img {
+  height: 481px;
+  margin: 32px 24px;
+  background-color: black;
+  flex-basis: 60%;
+}
